@@ -1,67 +1,7 @@
 # rovalenz24.github.io
 
-<!DOCTYPE html>
-<html lang="en">
+Hi everyone! This is my first test website. I am here to practice and learn. 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Name</title>
-    <!-- Add your stylesheets and other meta tags here -->
-    <link rel="stylesheet" href="styles.css">
-</head>
+Tips are welcome! 
 
-<body>
-
-    <header>
-        <h1>Your Website Name</h1>
-        <!-- Add navigation links or menu here -->
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <section id="hero">
-        <!-- Add your hero section content here -->
-        <h2>Welcome to Your Website!</h2>
-        <p>This is a brief description of what your website is about.</p>
-        <!-- Add a call-to-action button or any other elements -->
-        <a href="#" class="cta-button">Get Started</a>
-    </section>
-
-    <section id="features">
-        <!-- Add content for features section -->
-        <h2>Key Features</h2>
-        <p>Highlight some of the main features or services you offer.</p>
-        <!-- Add feature cards, images, or other content as needed -->
-    </section>
-
-    <section id="about">
-        <!-- Add content for about section -->
-        <h2>About Us</h2>
-        <p>Provide information about your company or organization.</p>
-        <!-- Add team members, company history, or any other relevant content -->
-    </section>
-
-    <section id="contact">
-        <!-- Add content for contact section -->
-        <h2>Contact Us</h2>
-        <p>Get in touch with us for any inquiries or feedback.</p>
-        <!-- Add a contact form or contact details -->
-    </section>
-
-    <footer>
-        <!-- Add footer content, copyright information, etc. -->
-        <p>&copy; 2023 Your Website Name. All rights reserved.</p>
-    </footer>
-
-    <!-- Add your scripts or additional JS libraries here -->
-    <script src="main.js"></script>
-</body>
-
-</html>
+Thank you :)
